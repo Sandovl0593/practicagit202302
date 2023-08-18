@@ -55,3 +55,11 @@ git checkout main
 gir commit -m "Segunda modificacion"
 git push --set-upstream origin main
 ```
+
+*Insert info readme.md*
+
+```bash
+git add .
+git commit -m "submit actuvidad"
+git push origin main
+```
